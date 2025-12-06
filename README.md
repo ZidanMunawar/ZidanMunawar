@@ -1,5 +1,5 @@
 # 💫 About Me:
-🪲 Zidan Ahmad Munawar<br>🔥 Backend Dev | Web Lover | SMK RPL CIMAHI<br>🚀 Building tools for students who hate tutorials<br>📍 Bandung, Indonesia<br>----------------------------------------------<br>🔧 Skills: Python, PHP, Laravel, HTML/CSS, C#, JS.<br>📦 Currently: Last Season in SMK, learning algo, learning english language<br>💬 Quote: "Code like nobody's watching. Document like everybody is."
+🪲 Zidan Ahmad Munawar<br>🔥 Web Lover | SMK RPL CIMAHI<br>🚀 just a student<br>📍 Bandung, Indonesia<br>----------------------------------------------<br>🔧 Skills: PHP, Laravel, HTML/CSS, C#, JS.<br>📦 Currently: Last Season in SMK, learning algo, learning english language<br>💬 Quote: "Code like nobody's watching. Document like everybody is."
 
 
 ## 🌐 Socials:
