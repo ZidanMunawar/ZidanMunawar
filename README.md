@@ -1,4 +1,4 @@
-🪲 Zidan Ahmad Munawar<br>🔥📍 Bandung, Indonesia<br>----------------------------------------------<br>💬 Quote: "Code like nobody's watching. Document like everybody is."
+🪲 Zidan Ahmad Munawar<br>📍 Bandung, Indonesia<br>----------------------------------------------<br>💬 Quote: "Code like nobody's watching. Document like everybody is."
 
 
 ## 🌐 Socials:
